@@ -1,5 +1,4 @@
 
-
 import plotly.express as px
 import plotly.io as pio
 import plotly.graph_objects as go
@@ -26,7 +25,7 @@ client = storage.Client(credentials=credentials, project='My First Project')
 bucket = client.get_bucket('schematic.buildspace.biz')
 
 
-uri = "mongodb+srv://##@buildspace.3szcgnw.mongodb.net/?retryWrites=true&w=majority"
+uri = "mongodb+srv://@buildspace.3szcgnw.mongodb.net/?retryWrites=true&w=majority"
 
 # Create a new client and connect to the server
 client = MongoClient(uri, server_api=ServerApi('1'))
