@@ -1,5 +1,5 @@
 # BuildSpace
-BuildSpace brings AI to the world of Commercial-Estate management
+BuildSpace brings AI to the world of Commercial-Estate management.
 
 <img src="https://github.com/tgarg10/BuildSpace/assets/129296453/522b6b7a-31d6-4b70-8728-f2d46f3b620a" width=80% height=80%>
 
