@@ -2,7 +2,7 @@
 BuildSpace brings AI to the world of Commercial-Estate management.
 
 ### BuildSpace's Website
-![BuildSpace Website](https://github.com/tgarg10/BuildSpace/assets/129296453/97e3cd28-28ef-4ec0-a320-1dd1e434f38e)(https://buildspace.biz/)
+[![BuildSpace Website](https://github.com/tgarg10/BuildSpace/assets/129296453/97e3cd28-28ef-4ec0-a320-1dd1e434f38e)(https://buildspace.biz/)]
 
 ### Architecture Diagram
 [<img src="https://github.com/tgarg10/BuildSpace/assets/129296453/1999168d-ae4d-4b14-a6d4-53da05d8fc0b" width=80% height=80%>]
