@@ -6,7 +6,7 @@ BuildSpace brings AI to the world of Commercial-Estate management.
 
 
 ### Architecture Diagram
-[<img src="https://github.com/tgarg10/BuildSpace/assets/129296453/1999168d-ae4d-4b14-a6d4-53da05d8fc0b" width=80% height=80%>]
+<img src="https://github.com/tgarg10/BuildSpace/assets/129296453/1999168d-ae4d-4b14-a6d4-53da05d8fc0b" width=80% height=80%>
 
 Check it out here! https://buildspace.biz/
 
